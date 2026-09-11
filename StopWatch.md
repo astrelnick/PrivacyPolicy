@@ -70,6 +70,17 @@ This Application and its breath-hold training features are intended solely for i
 ## 8. ACCEPTANCE OF TERMS
 By installing, accessing, or using the Application, you signify your full agreement to this Privacy Policy, Health Disclaimer, and Terms of Service. If you do not agree with any part of these terms, do not install or use the Application.
 
-## 9. CONTACT US
-If you have questions, feedback, or concerns regarding this policy, please reach out to the developer:
+## 9. DOWNLOAD & INTERNAL TESTING
+We are actively developing and testing **Neon Stopwatch: Lap & Apnea**, and we welcome your participation in our internal testing track! As an internal tester, you can test high-precision stopwatch features, custom lap timing, and structured apnea breath-hold training tables.
+
+### How to Install & Test:
+1. **Join the Internal Test:** Open the Google Play testing link on your Android device (or in a web browser signed into your Google account):  
+   👉 **[Download Neon Stopwatch: Lap & Apnea on Google Play](https://play.google.com/apps/internaltest/4701259241130559615)**
+2. **Accept the Invite & Download:** Click **"Accept Invite"** / **"Join the program"** and download the app via Google Play Store.
+3. **Help Us Improve:** Test lap precision, interval vibration cues, screen wake-lock behavior, and custom apnea tables (remembering to always observe the mandatory dry-land safety rules outlined in Section 1). Please report any timing inconsistencies, UI glitches, or suggestions for improvement to the developer.
+
+> **Note:** Access to internal testing releases is restricted to authorized Google accounts. If you encounter an error stating that the app is unavailable or access is restricted, please contact the developer with your Google account email to be added to the tester group.
+
+## 10. CONTACT US
+If you have questions, feedback, or concerns regarding this policy, testing, or the application, please reach out to the developer:
 * **Developer:** Anatoliy Strelnyk
