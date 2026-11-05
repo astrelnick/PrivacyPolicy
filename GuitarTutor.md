@@ -1,5 +1,5 @@
 # Privacy Policy for Guitar Tutor
-**Last Updated:** August 18, 2026
+**Last Updated:** November 5, 2026
 
 Thank you for choosing **Guitar Tutor** ("we", "our", or "us"). We are committed to respecting and protecting your privacy. This Privacy Policy explains how our mobile application (*Guitar Tutor*) handles information when you use our services.
 
@@ -52,18 +52,7 @@ Depending on your jurisdiction (such as the European Economic Area under GDPR or
 ## 8. Changes to This Privacy Policy
 We may update our Privacy Policy periodically to reflect changes in legal requirements or application features. Any updates will be posted on this page with an updated "Last Updated" date.
 
-## 9. Download the Application & Join Internal Testing
-We are continuously enhancing **Guitar Tutor: Learn & Tuner**, and we invite you to test our latest builds and help shape the app! By joining the Google Play Internal Testing track, you can explore new guitar lessons, tuner calibration, and real-time pitch feedback before general release.
-
-### How to Install & Test:
-1. **Join the Internal Test:** Open the Google Play testing link on your Android device (or in a web browser signed into your Google account):  
-   👉 **[Download Guitar Tutor: Learn & Tuner on Google Play](https://play.google.com/apps/internaltest/4701610647315002501)**
-2. **Accept the Invite & Download:** Click **"Accept Invite"** / **"Join the program"** and install the application directly from the Google Play Store.
-3. **Help Us Improve:** Test out the chromatic tuner, interactive tab lessons, pitch detection accuracy, and metronome. We especially appreciate feedback regarding microphone pitch sensitivity across different environments, tab rendering, and overall usability.
-
-> **Note:** Access to internal testing tracks requires an authorized Google account. If you receive a message that the test version is unavailable or you do not have access, please contact the developer so your email address can be added to the authorized testers list.
-
-## 10. Contact Us
+## 9. Contact Us
 If you have any questions, feedback, or concerns regarding this Privacy Policy, our practices, or the testing program, please reach out to us:
 
 - **Developer:** Anatoliy Strelnyk

@@ -1,5 +1,5 @@
 # Privacy Policy for DeutschLernen
-**Last Updated:** August 17, 2026
+**Last Updated:** November 5, 2026
 
 Thank you for choosing **DeutschLernen** ("we", "our", or "us"). We are committed to respecting and protecting your privacy. This Privacy Policy explains how our mobile application (*DeutschLernen*) handles information when you use our services.
 
@@ -40,18 +40,7 @@ Depending on your jurisdiction (such as the European Economic Area under GDPR or
 ## 8. Changes to This Privacy Policy
 We may update our Privacy Policy periodically to reflect changes in legal requirements or application features. Any updates will be posted on this page with an updated "Last Updated" date.
 
-## 9. Download the Application & Join Internal Testing
-We are actively developing and refining **DeutschLernen: Learn German**, and we would love your help in testing new features and improvements! By participating in our Google Play Internal Testing program, you get early access to new lessons, interactive exercises, and audio tools.
-
-### How to Install & Test:
-1. **Join the Internal Test:** Open the Google Play testing link on your Android device (or in a web browser signed into your Google account):  
-   👉 **[Download DeutschLernen: Learn German on Google Play](https://play.google.com/apps/internaltest/4701668866449726840)**
-2. **Accept the Invite & Download:** Click **"Accept Invite"** / **"Join the program"** and proceed to download or update the application directly via the Google Play Store.
-3. **Help Us Improve:** Explore the vocabulary lessons, quizzes, dialogues, and audio pronunciation across CEFR levels (A2–C2). If you encounter any bugs, localization issues, or have suggestions for new features, please share your feedback with us!
-
-> **Note:** Access to internal testing tracks requires an authorized Google account. If you see a message stating that the test version is unavailable or you do not have access, please reach out to the developer to have your Google Play account email added to the testers list.
-
-## 10. Contact Us
+## 9. Contact Us
 If you have any questions, feedback, or concerns regarding this Privacy Policy, our practices, or the testing program, please reach out to us:
 
 - **Developer:** Anatoliy Strelnyk
